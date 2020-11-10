@@ -9,3 +9,5 @@ if __name__ == '__main__':
     import sys
     print(sys.version)
     print(np.__version__)
+    
+    print("Changed")
